@@ -30,8 +30,8 @@ The study is from [the ManyLabs project](https://osf.io/ct89g/). It has a sample
   3. Relationships at school: student and teacher
   4. Relationships in team sports: player and coach 
  
- The most frequent words used in each topic: 
-![alt text](/images/Top Words in4.png)
+The most frequent words used in each topic: 
+![alt text](/images/TopWords_4Topics.png | width=100)
 
 
 
