@@ -44,6 +44,7 @@ To help you understand "what the topics are" better, I used the following labels
 ### The effect of power on perspective-taking could be different if people wrote about power experienced in different contexts
 Regression analysis showed that when people wrote primarily about power exeprience in the "School" context, the low power group had better perspective-taking than the high power group (Cohen's D = 0.17). When people wrote primarily about other topics, power did not seem to affect perspective-taking.  
 <img src="/images/PowerEffectByTopic.png" width="700"> 
+
 Error bars are 95% Confidence Intervals.
  
 
