@@ -23,16 +23,30 @@ The study is from [the ManyLabs project](https://osf.io/ct89g/). It has a sample
 * Exploratory analyses using the generated topics:
     I used regression analyses to test whether the relationship between the independent (power) and dependent (perspective-taking) variables changed when people wrote about different topics. 
 
-## Results:
-* Four topics emerged from the essays, I summarized it with the following labels. 
-  1. Close relationships: friends and family
-  2. Relationships at work: manager and evaluation
-  3. Relationships at school: student and teacher
-  4. Relationships in team sports: player and coach 
- 
-The most frequent words used in each topic: 
-
+## Findings:
+### Topics
+Four topics emerged from the essays, the most frequent word-stems used in each topic are shown below: 
 <img src="/images/TopWords_4Topics.png" width="700">
+
+To help you understand "what the topics are" better, I used the following labels to summarize the topics. For each topic, you can also find an excerpt from an representative essay below.
+* **1. Close relationships: friends and family.** 
+"I want a car on campus, even thought I'm a resident it would feel nice to leave campus without being at the mercy of someone driving you. I keep asking my parents if they could help me but they keep saying no..."
+
+* **2 Relationships at work: manager and evaluation** 
+"I'm the Human Resources Manager at the Distribution Center for the company I work for.  I'm usually the person that hires and terminates employees.  I evaluate individuals all the time for positions within our company..."  
+
+* **3 Relationships at school: student and teacher**  
+"I was a teacher in a private school in summer. I realised the power of my pen. I can pen down future of any student. For e.g  the marks I gave to one of my student allowed him to go to a University he dreamt of..."
+
+* **4 Relationships in team sports: player and coach** 
+"I played golf for my high school golf team and in my second year the coach decided to take another player to a tournament. At that tournament that player performed poorly and then the coach decided to take that same player to another tournament the next week over me again..."
+
+### The effect of power on perspective-taking could be different if people wrote about power experienced in different contexts
+Regression analysis showed that when people wrote primarily about power exeprience in the "School" context, the low power group had better perspective-taking than the high power group (Cohen's D = 0.17). When people wrote primarily about other topics, power did not seem to affect perspective-taking.  
+<img src="/images/PowerEffectByTopic.png" width="700"> 
+Error bars are 95% Confidence Intervals.
+ 
+
 
 
 
