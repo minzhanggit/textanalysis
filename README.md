@@ -38,7 +38,8 @@ To help you understand "what the topics are" better, I used the following labels
 * **3 Relationships at school: student and teacher**  
 "I was a teacher in a private school in summer. I realised the power of my pen. I can pen down future of any student. For e.g  the marks I gave to one of my student allowed him to go to a University he dreamt of..."
 
-* **4 Relationships in team sports: player and coach** 
+* **4 Relationships in team sports: player and coach**
+
 "I played golf for my high school golf team and in my second year the coach decided to take another player to a tournament. At that tournament that player performed poorly and then the coach decided to take that same player to another tournament the next week over me again..."
 
 ### The effect of power on perspective-taking could be different if people wrote about power experienced in different contexts
