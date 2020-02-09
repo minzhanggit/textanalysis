@@ -31,7 +31,8 @@ The study is from [the ManyLabs project](https://osf.io/ct89g/). It has a sample
   4. Relationships in team sports: player and coach 
  
 The most frequent words used in each topic: 
-![](/images/TopWords_4Topics.png)
+
+<img src="/images/TopWords_4Topics.png" width="700">
 
 
 
